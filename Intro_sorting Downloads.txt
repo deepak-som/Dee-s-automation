@@ -1,0 +1,4 @@
+Transfers everything from the folder on which it is implemented(i.e folder_to_track)
+to designated folder(i.e folder_destination)
+
+just change the path as per requirements.
